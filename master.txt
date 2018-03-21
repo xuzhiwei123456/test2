@@ -1,4 +1,8 @@
 1111  master分支   2222222222222222222222222222222222222222222 dev分支上修改的    woshi   hhhh2
 
 
+<<<<<<< HEAD
 towtowtowtowtowtowtowtowtowtowtowtowtowtowtowtowtowtowtowtowtowtowtowtowtowtowtowtowtowtowtowtowtowtowtowtowtowtow
+=======
+ooneoneoneoneoneoneoneoneoneoneoneoneoneoneoneoneoneoneoneoneoneoneoneoneoneoneoneoneoneoneonene 
+>>>>>>> f77f3e46e153d3010068c358897930fd2b7b5655
